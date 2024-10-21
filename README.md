@@ -1,2 +1,0 @@
-# IshuaWang.github.io
-wiki
