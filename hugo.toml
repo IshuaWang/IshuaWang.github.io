@@ -5,9 +5,13 @@ title = "我的天空"
 theme = "gokarna"
 enableEmoji = true
 enableRobotsTXT = true
-# pygmentsStyle = "monokai"
+pygmentsStyle = "monokai"
 
 [params]
+  [params.hidden]
+  tags = ["project", "blog"]
+  tagsPostDate = ["project"]
+  tagsPostDescription = ["project"]
   avatarAltText = "avatar"
   avatarSize = "size-m"
   avatarURL = "/images/avatar.webp"
