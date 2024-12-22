@@ -1,6 +1,6 @@
 baseURL = 'https://shiqu.space/'
 languageCode = 'zh-cn'
-title = "我的天空"
+title = "My Site"
 
 theme = "gokarna"
 enableEmoji = true
