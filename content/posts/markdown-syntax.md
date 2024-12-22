@@ -1,128 +1,21 @@
 ---
-title: "Markdown Syntax Guide"
-date: 2019-06-19
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: ["markdown", "css", "html"]
+title: "2024倒数第三周小计"
+date: 2024-12-22
+description: ""
+tags: ["总结"]
 type: post
 weight: 20
 showTableOfContents: true
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+2024年还有不到三周就快要结束了，时间如白驹过隙，如果我以前就能意识到时间过的如此之快多好，那或许我现在就不会感慨了。虽然快到了年末，却又是一个开始，开始写一些东西，记录自己的所见所闻，所思所想。其实在群里看到许多大一的学生就懂得记录和分享还是挺羡慕和佩服的，我自从上大学之后就没写过笔记，更别说总结与反思了。之所以是这样可能是因为我并没有意识到要去养成这样的一个习惯。
 
-# Headings
+我其实很早就意识到自己的学习效率很低，有时候甚至觉得可能自己学习一个月都不如正常人学一个星期。一个原因是自己有一种强迫症，比如看书就非要从第一页开始，如果漏了一点信息就会有一种不完整的感觉。这就导致了我在无关的信息上花了太多的时间。一本书可能有的地方重要，有些地方不那么重要，特别是对于那些很厚的书，更是如此，而自己对不同的部分却花了同样的时间。另一个原因可能就是之前提到的，未作记录总结，只是在进行学习的这个过程，却没有怎么在意学习的结果。这就导致了虽然看过了一些技术类书籍，如果又没有进行一定量的练习，可能到后面前面看的又忘记了。尽管知道费曼学习法，但是却从未像那样做过。可能自己之前就是一个得过且过的态度。
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+我的强迫症到底是从何而来，不太清楚，可能来自于一种学习策略。就是当你遇到一个问题的时候，是选择把所有相关的东西都弄懂呢？还是只学习自己需要的那部分，也就是所谓的用到在学。以前我可能是偏向于前者，比如说用到一个工具，我就会把整个文档全看一边，一个方面可以了解它有哪些我不知道的功能，或许对我有用。另一个方面是自己遇到一个新的问题时，能马上意识到去哪找到答案。前面说的是这个策略的优点。但是这个策略也有明显的缺点，那就是完整的读完整个文档肯定花费了更多的时间，特别是在自己阅读速度不快的情况下。而且有的东西也并不需要知道，因为有可能一辈子都用不到。
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+另一个策略类似于计算机里的lazy load。它就是前者的缺点的相反面，等到需要了再去获取。我想，这个技术之所以能成为一个通用的做法说明确实有其可取之处。我之前以为，这两种方法不是非黑即白，就像乔布斯学习了美术字的课程，当时看似没用，但是有一天突然派上了用场。但是我现在意识到，后者应该是更优的。因为后者比前者省下的时间完全可以用来拓宽知识的广度，且学习到的东西又都是自己需要的。但是问题在于，在你去看一个东西之前，不能百分之百确定你看的东西确实会对自己有用，如果没用，那这个过程就变成了前者。在信息贫瘠的年代，人们没有什么学习的资源，在信息爆炸的时代，资源太多又不知道学什么了。如果能提前知道信息对自己是否有用那该多好。
 
-## Paragraph
+上面说的学以致用，表示为了实际应用学习。可以引申到另一个话题，就是不要等到所有东西都做好准备了才开始。就比如不是等自己口语说的很熟练了才去跟别人交谈，不是等自己成为技术大牛才去分享知识。接触的人和事越多，越来越同意世界是个草台班子这个观点。有的时候不是有能力才坐在那个位子上，而是坐上那个位子就会习得相应的能力。当我明白了这个道理，感觉自己对大多数事物都祛魅了，闻道有先后，术业有专攻而已。同时，自己对很多事情也变得更加宽容。当一个公司做出一个不太成熟的产品，我也能够接受。毕竟所有伟大的产品，技术和公司都是一点点发展而来。当他们还在萌芽的阶段，肯定不像今天这样光鲜亮丽。其实我最近几年才听说比亚迪，不曾想过它1995就成立了。三十年的时间，厚积而勃发。
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
+对于个人的意义，就是要坚持长期主义，无论是知识还是能力的积累，都需要持之以恒的努力与耐心。每天做一点点，日积月累，最终或许能达到自己之前未曾想过的深度与广度。一个普通人可以改变世界吗？有位学者说：如果你做了一件好事，那么这个世界就变得好了一点。更重要的是这一点不是终点，而是一个起点。因此，希望后面能沉淀下来，毕竟，我才弄明白自己到底想干什么。
