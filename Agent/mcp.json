@@ -1,0 +1,107 @@
+{
+  "mcpServers": {
+    "context7": {
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "ctx7sk-8e256184-8cca-4f8d-8aa2-8b461c37ea5e"
+      }
+    },
+    "serena": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/oraios/serena",
+        "serena",
+        "start-mcp-server",
+        "--context",
+        "ide"
+      ]
+    },
+    "deepwiki": {
+     "url": "https://mcp.deepwiki.com/mcp"
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "ddg-search": {
+        "command": "uvx",
+        "args": ["duckduckgo-mcp-server"]
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["-y", "chrome-devtools-mcp@latest"]
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "puppeteer": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "puppeteer-mcp-server"
+      ]
+    },
+    "firecrawl": {
+      "command": "npx",
+      "args": ["-y", "firecrawl-mcp"],
+      "env": {
+        "FIRECRAWL_API_KEY": "fc-a9ea949aad7b4418b36b01392f586508"
+      }
+    },
+    "exa": {
+      "url": "https://mcp.exa.ai/mcp?exaApiKey=0a5b1ad9-6182-4cd8-bc47-f4947d5cae2f"
+    },
+    "tavily": {
+      "url": "https://mcp.tavily.com/mcp/?tavilyApiKey=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"
+    },
+    "supabase": {
+      "url": "https://mcp.supabase.com/mcp?project_ref=wfjfaduxmkmmxfbukhwu"
+    },
+    "figma": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "figma-developer-mcp",
+        "--figma-api-key=figd_jDuuLbCNiQr1PCF4SSdn7kY1msw-EyR5BdReYe3s",
+        "--stdio"
+      ]
+    },
+    "vercel": {
+      "url": "https://mcp.vercel.com"
+    },
+    "spec-workflow": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pimzino/spec-workflow-mcp@latest"
+      ]
+    },
+    "mcp-server-time": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-time",
+        "--local-timezone=Asia/Shanghai"
+      ]
+    },
+    "replicate": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "replicate-mcp@latest"
+      ],
+      "env": {
+        "REPLICATE_API_TOKEN": "r8_Qsyz8VvBVdIa4idSGwOf8K4m0W4kI412yiVSz"
+      }
+    }
+  }
+}
