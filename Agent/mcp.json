@@ -7,7 +7,6 @@
       }
     },
     "serena": {
-      "type": "stdio",
       "command": "uvx",
       "args": [
         "--from",
@@ -19,7 +18,7 @@
       ]
     },
     "deepwiki": {
-     "url": "https://mcp.deepwiki.com/mcp"
+      "url": "https://mcp.deepwiki.com/mcp"
     },
     "sequential-thinking": {
       "command": "npx",
@@ -27,36 +26,6 @@
         "-y",
         "@modelcontextprotocol/server-sequential-thinking"
       ]
-    },
-    "ddg-search": {
-        "command": "uvx",
-        "args": ["duckduckgo-mcp-server"]
-    },
-    "chrome-devtools": {
-      "command": "npx",
-      "args": ["-y", "chrome-devtools-mcp@latest"]
-    },
-    "playwright": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "@playwright/mcp@latest"
-      ]
-    },
-    "puppeteer": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "puppeteer-mcp-server"
-      ]
-    },
-    "firecrawl": {
-      "command": "npx",
-      "args": ["-y", "firecrawl-mcp"],
-      "env": {
-        "FIRECRAWL_API_KEY": "fc-a9ea949aad7b4418b36b01392f586508"
-      }
     },
     "exa": {
       "url": "https://mcp.exa.ai/mcp?exaApiKey=0a5b1ad9-6182-4cd8-bc47-f4947d5cae2f"
@@ -78,20 +47,6 @@
     },
     "vercel": {
       "url": "https://mcp.vercel.com"
-    },
-    "spec-workflow": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@pimzino/spec-workflow-mcp@latest"
-      ]
-    },
-    "mcp-server-time": {
-      "command": "uvx",
-      "args": [
-        "mcp-server-time",
-        "--local-timezone=Asia/Shanghai"
-      ]
     },
     "replicate": {
       "command": "npx",
